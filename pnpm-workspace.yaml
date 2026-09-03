@@ -1,3 +1,6 @@
+packages:
+  - .
+
 # pnpm 10+ reads project settings from here rather than package.json.
 
 # strictDepBuilds defaults to true in pnpm 11, so every dependency wanting to run
